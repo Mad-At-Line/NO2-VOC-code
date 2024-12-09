@@ -6,4 +6,4 @@ I have no idea why you would need this but it should have some cool particle sim
 IMPORTANT
 -----------------------------------------------------
 If you want to run, then copy and paste (and run) this line in powershell, otherwise it won't work:
-pip install numpy matplotlib scipy
+**pip install numpy matplotlib scipy**
